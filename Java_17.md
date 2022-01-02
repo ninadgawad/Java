@@ -23,11 +23,11 @@ Oracle also announced that LTS releases, which receive at least eight years of p
 
 
 ### Acronyms
-**JEP**: JDK Enhancement Proposals
-**RMI**: Remote Method Invocation
-**AOT**: Ahead-of-time compilation
-**JIT**: Just in time
-**GA**: General Availability
+- **JEP**: JDK Enhancement Proposals
+- **RMI**: Remote Method Invocation
+- **AOT**: Ahead-of-time compilation
+- **JIT**: Just in time
+- **GA**: General Availability
   
 ### Links
 - [Download Java 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
