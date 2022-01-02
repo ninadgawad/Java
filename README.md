@@ -1,5 +1,7 @@
-# Java-12
-Java 12
+# Java Version's
+- Java 17
+- Java 11
+- Java 8
 
 
 ## Switch Expressions
