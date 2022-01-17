@@ -26,5 +26,5 @@
 
 
 ## Links:
-https://www.oracle.com/java/technologies/java-se-support-roadmap.html
-https://openjdk.java.net/
+- https://www.oracle.com/java/technologies/java-se-support-roadmap.html
+- https://openjdk.java.net/
