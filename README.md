@@ -24,6 +24,13 @@
 - File.mismatch method
 
 
+### Download Java 
+```
+wget https://download.oracle.com/java/19/latest/jdk-19_linux-x64_bin.tar.gz
+```
+
+
+
 ## Apache Maven 
 Apache Maven is a software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information. 
 - Used for building project and managing third party open source framework dependency for Java apps 
