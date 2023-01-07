@@ -78,6 +78,10 @@ mvn package
 ```
 mvn install
 ```
+- Find dependencies of the project and the dependencies of those dependencies
+```
+mvn dependency:tree
+```
 
 ## Links:
 - https://www.oracle.com/java/technologies/java-se-support-roadmap.html
