@@ -29,6 +29,14 @@ Java is a set of computer software and specifications developed by **James Gosli
 - Day Period Support Added
 - Stream.toList()
 
+Java 17 will also include support for Unicode 14, the latest version of the Unicode standard. This will bring a number of new characters and symbols to the language, including support for emoji.
+### Here are a few more details about some of the features that will be included in Java 17:
+- Local Variable Syntax for Lambda Parameters: This feature will allow developers to use the var keyword to declare the type of a lambda parameter. This will make it easier to write concise lambda expressions and reduce boilerplate code.
+- Sealed Classes: Java 17 will introduce sealed classes, which are a new kind of class that can only be subclassed by a specific set of classes. This will allow developers to better control the inheritance hierarchy of their code and make it easier to reason about.
+- Records: Java 17 will also introduce records, which are a new kind of class that are designed to hold a fixed set of data. Records are essentially a concise way to define simple data classes and will make it easier to create immutable value types.
+- Foreign Linker API: Java 17 will include a new Foreign Linker API, which will allow developers to link native libraries and call native functions from Java code. This will enable Java programs to interact with native code and take advantage of features that are not available in the Java platform.
+- Networking Improvements: Java 17 will include a number of improvements to the networking API, including support for TLS 1.3 and HTTP/3. These enhancements will improve the performance and security of Java programs that use networking.
+
 
 #### Java 12 New Features: 
 - Switch Expressions
