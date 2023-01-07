@@ -59,6 +59,25 @@ https://github.com/openjdk/jdk
 Apache Maven is a software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information. 
 - Used for building project and managing third party open source framework dependency for Java apps 
 
+####  To use Maven, you will need to install it on your machine and create a Maven project. You can then configure your project by creating a pom.xml file and specifying the dependencies and build parameters for your project. Once your project is configured, you can use Maven commands to build and manage your project.
+
+Some common Maven commands include:
+- Compiles the source code for the project
+```
+mvn compile
+```
+- Runs the tests for the project
+```
+mvn test
+```
+- Packages the project into a JAR or WAR file
+```
+mvn package
+```
+- Installs the project's artifacts in the local repository
+```
+mvn install
+```
 
 ## Links:
 - https://www.oracle.com/java/technologies/java-se-support-roadmap.html
