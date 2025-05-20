@@ -83,6 +83,11 @@ mvn install
 mvn dependency:tree
 ```
 
+- Find license report
+
+```
+mvn project-info-reports:dependencies
+```
 ## Links:
 - https://www.oracle.com/java/technologies/java-se-support-roadmap.html
 - https://www.oracle.com/java/technologies/downloads/
