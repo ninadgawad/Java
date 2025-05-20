@@ -2,22 +2,18 @@
 Java is a set of computer software and specifications developed by **James Gosling** at Sun Microsystems, which was later acquired by the Oracle Corporation, that provides a system for developing application software and deploying it in a cross-platform computing environment
 
 ## Java LTS Release Versions 
-- Java 19
+
+- Java 21
 - Java 17
 - Java 11
 - Java 8
-- Java 7
 
 ## Non LTS Release Versions
-- Java 20
-- Java 18
-- Java 16
-- Java 15
-- Java 14
-- Java 13
-- Java 12
-- Java 10
-- Java 9
+- Java 22-24
+- Java 18-20
+- Java 12-16
+- Java 9-10
+
 
 #### Java 17 New Features: 
 - Text Blocks
