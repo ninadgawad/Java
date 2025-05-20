@@ -83,6 +83,8 @@ mvn dependency:tree
 
 ```
 mvn project-info-reports:dependencies
+
+mvn license:third-party-report
 ```
 ## Links:
 - https://www.oracle.com/java/technologies/java-se-support-roadmap.html
